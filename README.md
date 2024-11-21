@@ -28,3 +28,16 @@ More info about apt-get  :``https://www.geeksforgeeks.org/apt-get-command-in-lin
 - Change file premission to execute
 
 ```chmod +x [filename]```
+
+
+## Grep
+
+- Use 'grep' to find patterns in files, used to search text and strings in a given file
+
+
+``grep word ./file.txt | cat``
+
+This example searches for `word` in a a file called `file.txt` in the current directory and print out whats found
+
+More info : ``https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/``
+
